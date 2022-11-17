@@ -1,6 +1,6 @@
 import React from "react";
+import { StatusBar } from "react-native";
 import { ThemeProvider } from "styled-components";
-import { Groups } from "@screens/Groups";
 import Theme from "@theme/index";
 import {
   useFonts,
@@ -10,7 +10,9 @@ import {
 } from "@expo-google-fonts/roboto";
 import { Loading } from "@components/Loading";
 
-import { StatusBar } from "react-native";
+import { Groups } from "@screens/Groups";
+import { NewGroup } from "@screens/NewGroup";
+
 export default function App() {
   const [fontsLoaded] = useFonts({
     Roboto_400Regular,
@@ -28,7 +30,7 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
-      <Groups />
+      <NewGroup />
     </ThemeProvider>
   );
 }

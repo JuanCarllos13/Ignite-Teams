@@ -24,10 +24,7 @@ export function Groups() {
         ListEmptyComponent={() => <ListEmpty message="Lista Vazia" />}
       />
 
-
-      <Button
-      title="Adicionar"
-      />
+      <Button title="Adicionar" />
     </Container>
   );
 }
