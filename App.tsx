@@ -10,9 +10,7 @@ import {
 } from "@expo-google-fonts/roboto";
 import { Loading } from "@components/Loading";
 
-import { Groups } from "@screens/Groups";
-import { NewGroup } from "@screens/NewGroup";
-import { Players } from "@screens/Players";
+import { Routes } from "./src/routes";
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -31,7 +29,7 @@ export default function App() {
         backgroundColor="transparent"
         translucent
       />
-      <Players />
+      <Routes />
     </ThemeProvider>
   );
 }
