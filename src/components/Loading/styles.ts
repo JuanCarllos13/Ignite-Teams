@@ -7,4 +7,6 @@ export const Container = styled.View`
   justify-content: center;
 `;
 
-export const LoadIndicator = styled.ActivityIndicator``;
+export const LoadIndicator = styled.ActivityIndicator`
+    flex: 1;
+`;
