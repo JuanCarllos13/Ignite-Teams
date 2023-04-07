@@ -67,11 +67,13 @@ Tecnologias utilizadas para desenvolver este projeto:
 - Phosphor Icons
 
 <hr>
+
+## 👨‍💻 Autor<br>
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/JuanCarllos13">
-        <img src="https://github.com/JuanCarllos13.png" width="100px;" height="100px" alt="Foto do Juan no GitHub"/><br>
+        <img src="https://github.com/JuanCarllos13.png" width="150px;" height="150px" alt="Foto do Juan no GitHub"/><br>
         <sub>
           <b>JUAN CARLOS</b>
         </sub>
