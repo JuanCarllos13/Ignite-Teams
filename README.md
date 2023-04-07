@@ -8,12 +8,10 @@
 
 <div align="center">
 
-https://user-images.githubusercontent.com/86435195/206884006-ae27c63a-0f24-49a3-9809-891b864c960b.mp4
+https://user-images.githubusercontent.com/49074930/198750717-90817157-ea05-4ebb-a15f-d9797394da92.mp4
  
 </div>
 
-
-https://user-images.githubusercontent.com/49074930/198750717-90817157-ea05-4ebb-a15f-d9797394da92.mp4
 
 ## 📝 Sobre o projeto
 
